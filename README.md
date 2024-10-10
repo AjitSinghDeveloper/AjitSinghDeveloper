@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/AjitSinghDeveloper/Ajit-Singh-Developer/blob/main/coding-freak.gif" alt="logo" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Ajit Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
